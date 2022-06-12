@@ -9,20 +9,20 @@ html,body{
 }
 
 .pimg1{
-    background-image: url(/images/img1.jpg);
+    background-image: url(/assets/images/img1.jpg);
     min-height: 100%;
     
 }
 .pimg4{
-    background-image: url(/images/Dubai.jpg);
+    background-image: url(/assets/images/Dubai.jpg);
     min-height: 100%;
 }
 .pimg2{
-    background-image: url(/images/Mumbai.jpg);
+    background-image: url(/assets/images/Mumbai.jpg);
     min-height: 400px;
 }
 .pimg3{
-    background-image: url(/images/Shanghai.jpg);
+    background-image: url(/assets/images/Shanghai.jpg);
     min-height: 400px;
 }
 .pimg1, .pimg2, .pimg3 ,.pimg4{
